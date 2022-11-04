@@ -1,3 +1,5 @@
+# Find similar numbers in a list.
+
 if __name__=="__main__":
     my_list = [25, 79, 86, 120, 79, 456, 58, 79, 86, 25]
 
