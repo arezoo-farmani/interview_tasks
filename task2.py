@@ -1,3 +1,5 @@
+# Find two numbers in a sorted list which their sum is 45.
+
 if __name__ == "__main__":
     my_list = [8, 10, 12, 13, 20, 25, 26, 33, 37, 38, 44, 53]
     target_sum = 45
